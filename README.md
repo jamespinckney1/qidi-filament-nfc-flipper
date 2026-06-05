@@ -1,5 +1,11 @@
 # QidiBox Filament Tag Reader/Writer
 
+> **Fork notice:** This is a community fork of
+> [alexk42/qidi-filament-nfc-flipper](https://github.com/alexk42/qidi-filament-nfc-flipper),
+> expanded to cover all 35 QIDI material codes. Original work (c) 2025 Alex
+> Kilimnik under the MIT License (retained in full). Maintained by @jamespinckney1.
+> Unofficial - not affiliated with, endorsed by, or supported by QIDI.
+
 A Flipper Zero application for reading and writing the RFID tags used by the
 QidiBox filament management system, so any spool can be auto-recognized by the
 QIDI Box just like official QIDI filament.
